@@ -1,0 +1,2 @@
+PORT=5500
+MONGODB_URL=mongodb+srv://<db_username>:<db_password>@gogocluster1.lxo7m.mongodb.net/?retryWrites=true&w=majority&appName=gogocluster1

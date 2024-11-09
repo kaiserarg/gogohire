@@ -1,0 +1,4 @@
+/server/main
+/server/go.sum
+DS_Store
+/server/.env

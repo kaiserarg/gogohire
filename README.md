@@ -1,6 +1,6 @@
 # gogohire 
 
-#won cornell + johnson & johnson 2024 hacakthon "most creative"
+# won cornell + johnson & johnson 2024 hacakthon "most creative"
 
 @anavaran @kaiserarg
 

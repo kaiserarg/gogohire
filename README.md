@@ -1,5 +1,9 @@
 # gogohire 
 
+#won cornell + johnson & johnson 2024 hacakthon "most creative"
+
+@anavaran @kaiserarg
+
 # frontend
 - cd frontend 
 - https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
